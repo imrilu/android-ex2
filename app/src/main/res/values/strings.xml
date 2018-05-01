@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ex2</string>
+    <string name="input_layout_hint">Enter Message</string>
+    <string name="button_description">this is a sending button</string>
+    <string name="share_message">share message</string>
+    <string name="delete_message">delete message</string>
+</resources>
